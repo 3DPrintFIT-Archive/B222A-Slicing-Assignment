@@ -100,7 +100,7 @@ Kostičkami je zakázáno otáčet, protože kamarád má iracionální strach z
 
 ### Náhradní díl k tiskárně
 
-Na vaší 3D tiskárně RebeliX napraskl díl držící pravý motor.
+Na vaší 3D tiskárně RebeliX napraskl díl držící jeden ze Z motorů.
 Máte k dispozici pouze STL, kde jsou oba držáky motorů vedle sebe,
 a chcete vytisknout pouze jeden. Měl by mít pevnost úměrnou užití, 
 ale potřebujte výtisk co nejrychleji, abyste snížili riziko,
